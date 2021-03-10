@@ -25,6 +25,9 @@ Raspberry Pi Pico Relay Board is developed by SB Components with the potential t
 * Make sure default jumpers are connected for each relay.
 * Now use example code "Test.py" from pico relay board's github repository in any micropython supported ide (preferred thonny ide).
 * Copy paste code in ide and choose interpreter as MicroPython (Raspberry Pi pico).
+
+<img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
+
 * Click on green play button to run example on Pico Relay Board.
 
 Note: You can use any other GPIO of Raspberry Pi Pico by removing default jumper and connection it to GPIO using jumper cables. 
