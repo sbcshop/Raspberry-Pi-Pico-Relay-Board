@@ -31,3 +31,7 @@ Raspberry Pi Pico Relay Board is developed by SB Components with the potential t
 * Click on green play button to run example on Pico Relay Board.
 
 Note: You can use any other GPIO of Raspberry Pi Pico by removing default jumper and connection it to GPIO using jumper cables. 
+
+### Application : Ac Bulb Control Circuit
+
+<img src="relay_application.png" />
